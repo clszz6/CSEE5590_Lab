@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d567677e-3b68-44a5-98e5-30870c21cdeb" name="Default Changelist" comment="" />
+    <list default="true" id="5c75090e-83a2-4a1a-b0c1-138d97135999" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../question5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../question5/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +13,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/question5.py">
+        <entry file="file://$PROJECT_DIR$/question6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="591">
-              <caret line="169" selection-start-line="169" selection-end-line="169" />
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#136#165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -27,7 +32,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/question5.py" />
+        <option value="$PROJECT_DIR$/question6.py" />
       </list>
     </option>
   </component>
@@ -43,18 +48,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="question5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="question5" type="462c0819:PsiDirectoryNode" />
+              <item name="question6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="question6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,20 +86,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d567677e-3b68-44a5-98e5-30870c21cdeb" name="Default Changelist" comment="" />
-      <created>1550121202678</created>
+      <changelist id="5c75090e-83a2-4a1a-b0c1-138d97135999" name="Default Changelist" comment="" />
+      <created>1550277056169</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550121202678</updated>
-      <workItem from="1550121203984" duration="184000" />
+      <updated>1550277056169</updated>
+      <workItem from="1550277057537" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184000" />
+    <option name="totallyTimeSpent" value="15000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="760" extended-state="1" />
+    <frame x="20" y="43" width="1400" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -124,10 +129,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/question5.py">
+    <entry file="file://$PROJECT_DIR$/question6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#136#165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
